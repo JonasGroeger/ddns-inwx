@@ -1,6 +1,6 @@
 # ddns-inwx
 
-This project aims to provide a ddns client for the DNS service at [inwx.de](https://inwx.de).
+This project provides a DDNS client for [inwx.de](https://inwx.de).
 
 ## Usage
 
